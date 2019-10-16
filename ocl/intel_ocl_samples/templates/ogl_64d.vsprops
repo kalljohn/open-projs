@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="ogl_64d"
+	>
+	<Tool
+		Name="VCCLCompilerTool"
+		AdditionalIncludeDirectories="..\common\GL\"
+	/>
+	<Tool
+		Name="VCLinkerTool"
+		AdditionalDependencies="opengl32.lib"
+		AdditionalLibraryDirectories=""
+	/>
+	<UserMacro
+		Name="CFG_LONG"
+		Value="Debug"
+	/>
+	<UserMacro
+		Name="CFG_POSTFIX"
+		Value="d"
+	/>
+	<UserMacro
+		Name="ARCH"
+		Value="x64"
+	/>
+	<UserMacro
+		Name="TARGET_POSTFIX"
+		Value=""
+	/>
+	<UserMacro
+		Name="CORE_POSTFIX"
+		Value=""
+	/>
+</VisualStudioPropertySheet>
