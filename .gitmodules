@@ -1,3 +1,9 @@
 [submodule "ocl/intel-compute-samples"]
 	path = ocl/intel-compute-samples
 	url = https://github.com/intel/compute-samples
+[submodule "simd/vectorclass2"]
+	path = simd/vectorclass2
+	url = https://github.com/vectorclass/version2
+[submodule "simd/vectorclass"]
+	path = simd/vectorclass
+	url = https://github.com/vectorclass/version1
