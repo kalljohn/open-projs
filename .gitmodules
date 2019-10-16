@@ -58,3 +58,6 @@
 [submodule "ogl/superbible7"]
 	path = ogl/superbible7
 	url = https://github.com/openglsuperbible/sb7code
+[submodule "ocl/opencl_in_action"]
+	path = ocl/opencl_in_action
+	url = https://github.com/jeremyong/opencl_in_action
