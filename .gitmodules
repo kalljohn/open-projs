@@ -52,3 +52,9 @@
 [submodule "ocl/amd_app_samples"]
 	path = ocl/amd_app_samples
 	url = https://github.com/OpenCL/AMD_APP_samples
+[submodule "ogl/opengles3-book"]
+	path = ogl/opengles3-book
+	url = https://github.com/danginsburg/opengles3-book/
+[submodule "ogl/superbible7"]
+	path = ogl/superbible7
+	url = https://github.com/openglsuperbible/sb7code
