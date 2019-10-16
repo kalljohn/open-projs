@@ -64,3 +64,6 @@
 [submodule "ocl/opencl-book-samples"]
 	path = ocl/opencl-book-samples
 	url = https://github.com/bgaster/opencl-book-samples
+[submodule "cmake/cmake-cookbook"]
+	path = cmake/cmake-cookbook
+	url = https://github.com/dev-cafe/cmake-cookbook
