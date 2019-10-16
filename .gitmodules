@@ -7,3 +7,45 @@
 [submodule "simd/vectorclass"]
 	path = simd/vectorclass
 	url = https://github.com/vectorclass/version1
+[submodule "ffmpeg/simplest_media_player"]
+	path = ffmpeg/simplest_media_player
+	url = https://github.com/leixiaohua1020/simplest_media_play
+[submodule "ffmpeg/simplest_ffmpeg_audio_player"]
+	path = ffmpeg/simplest_ffmpeg_audio_player
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_audio_player
+[submodule "ffmpeg/simplest_ffmpeg_video_filter"]
+	path = ffmpeg/simplest_ffmpeg_video_filter
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_video_filter
+[submodule "ffmpeg/simplest_ffmpeg_swscale"]
+	path = ffmpeg/simplest_ffmpeg_swscale
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_swscale
+[submodule "ffmpeg/simplest_ffmpeg_format"]
+	path = ffmpeg/simplest_ffmpeg_format
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_format
+[submodule "ffmpeg/simplest_ffmpeg_device"]
+	path = ffmpeg/simplest_ffmpeg_device
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_device
+[submodule "ffmpeg/simplest_ffmpeg_mem_handler"]
+	path = ffmpeg/simplest_ffmpeg_mem_handler
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_mem_handler
+[submodule "ffmpeg/simplest_ffmpeg_streamer"]
+	path = ffmpeg/simplest_ffmpeg_streamer
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_streamer
+[submodule "ffmpeg/simplest_ffmpeg_video_encoder"]
+	path = ffmpeg/simplest_ffmpeg_video_encoder
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_video_encoder
+[submodule "ffmpeg/simplest_ffmpeg_picture_encoder"]
+	path = ffmpeg/simplest_ffmpeg_picture_encoder
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_picture_encoder
+[submodule "ffmpeg/simplest_ffmpeg_audio_encoder"]
+	path = ffmpeg/simplest_ffmpeg_audio_encoder
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_audio_encoder
+[submodule "ffmpeg/simplest_ffmpeg_player"]
+	path = ffmpeg/simplest_ffmpeg_player
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_player
+[submodule "ffmpeg/simplest_ffmpeg_avutil"]
+	path = ffmpeg/simplest_ffmpeg_avutil
+	url = https://github.com/leixiaohua1020/simplest_ffmpeg_avutil
+[submodule "ffmpeg/simplest_encoder"]
+	path = ffmpeg/simplest_encoder
+	url = https://github.com/leixiaohua1020/simplest_encoder
