@@ -1,0 +1,3 @@
+[submodule "ocl/intel-compute-samples"]
+	path = ocl/intel-compute-samples
+	url = https://github.com/intel/compute-samples
