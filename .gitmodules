@@ -61,3 +61,6 @@
 [submodule "ocl/opencl_in_action"]
 	path = ocl/opencl_in_action
 	url = https://github.com/jeremyong/opencl_in_action
+[submodule "ocl/opencl-book-samples"]
+	path = ocl/opencl-book-samples
+	url = https://github.com/bgaster/opencl-book-samples
