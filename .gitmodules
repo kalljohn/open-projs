@@ -64,3 +64,6 @@
 [submodule "ocl/opencl-book-samples"]
 	path = ocl/opencl-book-samples
 	url = https://github.com/bgaster/opencl-book-samples
+[submodule "cmake/modern-cmake"]
+	path = cmake/modern-cmake
+	url = https://gitlab.com/CLIUtils/modern-cmake
