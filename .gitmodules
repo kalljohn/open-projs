@@ -102,3 +102,59 @@
 	path = libs/simd/vectorclass2
 	url = https://github.com/vectorclass/version2
 	branch = master
+[submodule "libs/fmt"]
+	path = libs/fmt
+	url = https://github.com/fmtlib/fmt
+	branch = master
+[submodule "libs/asio"]
+	path = libs/asio
+	url = https://github.com/chriskohlhoff/asio
+	branch = master
+[submodule "libs/nlohmann-json"]
+	path = libs/nlohmann-json
+	url = https://github.com/nlohmann/json
+	branch = master
+[submodule "libs/simdjson"]
+	path = libs/simdjson
+	url = https://github.com/lemire/simdjson
+	branch = master
+[submodule "libs/nanogui"]
+	path = libs/nanogui
+	url = https://github.com/mitsuba-renderer/nanogui
+	branch = master
+[submodule "libs/glfwm"]
+	path = libs/glfwm
+	url = https://github.com/giorgiomarcias/glfwm
+	branch = master
+[submodule "libs/glfw"]
+	path = libs/glfw
+	url = https://github.com/glfw/glfw
+	branch = master
+[submodule "libs/glm"]
+	path = libs/glm
+	url = https://github.com/g-truc/glm
+	branch = master
+[submodule "libs/NanoVG"]
+	path = libs/NanoVG
+	url = https://github.com/memononen/NanoVG
+	branch = master
+[submodule "libs/glad"]
+	path = libs/glad
+	url = https://github.com/Dav1dde/glad
+	branch = master
+[submodule "cmake/sanitizers-cmake"]
+	path = cmake/sanitizers-cmake
+	url = https://github.com/kalljohn/sanitizers-cmake
+	branch = master
+[submodule "ocl/cuda-opengl-interop"]
+	path = ocl/cuda-opengl-interop
+	url = https://github.com/kalljohn/cuda-opengl-interop
+	branch = master
+[submodule "cmake/cmake-superbuild"]
+	path = cmake/cmake-superbuild
+	url = https://github.com/Sarcasm/cmake-superbuild
+	branch = master
+[submodule "toolchains/gperftools"]
+	path = toolchains/gperftools
+	url = https://github.com/gperftools/gperftools
+	branch = master
