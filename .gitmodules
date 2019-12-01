@@ -1,78 +1,104 @@
 [submodule "ocl/intel-compute-samples"]
 	path = ocl/intel-compute-samples
 	url = https://github.com/intel/compute-samples
-[submodule "simd/vectorclass2"]
-	path = simd/vectorclass2
-	url = https://github.com/vectorclass/version2
-[submodule "simd/vectorclass"]
-	path = simd/vectorclass
-	url = https://github.com/vectorclass/version1
+	branch = master
 [submodule "ffmpeg/simplest_media_player"]
 	path = ffmpeg/simplest_media_player
 	url = https://github.com/leixiaohua1020/simplest_media_play
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_audio_player"]
 	path = ffmpeg/simplest_ffmpeg_audio_player
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_audio_player
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_video_filter"]
 	path = ffmpeg/simplest_ffmpeg_video_filter
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_video_filter
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_swscale"]
 	path = ffmpeg/simplest_ffmpeg_swscale
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_swscale
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_format"]
 	path = ffmpeg/simplest_ffmpeg_format
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_format
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_device"]
 	path = ffmpeg/simplest_ffmpeg_device
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_device
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_mem_handler"]
 	path = ffmpeg/simplest_ffmpeg_mem_handler
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_mem_handler
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_streamer"]
 	path = ffmpeg/simplest_ffmpeg_streamer
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_streamer
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_video_encoder"]
 	path = ffmpeg/simplest_ffmpeg_video_encoder
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_video_encoder
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_picture_encoder"]
 	path = ffmpeg/simplest_ffmpeg_picture_encoder
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_picture_encoder
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_audio_encoder"]
 	path = ffmpeg/simplest_ffmpeg_audio_encoder
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_audio_encoder
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_player"]
 	path = ffmpeg/simplest_ffmpeg_player
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_player
+	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_avutil"]
 	path = ffmpeg/simplest_ffmpeg_avutil
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_avutil
+	branch = master
 [submodule "ffmpeg/simplest_encoder"]
 	path = ffmpeg/simplest_encoder
 	url = https://github.com/leixiaohua1020/simplest_encoder
+	branch = master
 [submodule "ocl/amd_app_samples"]
 	path = ocl/amd_app_samples
 	url = https://github.com/OpenCL/AMD_APP_samples
+	branch = master
 [submodule "ogl/opengles3-book"]
 	path = ogl/opengles3-book
 	url = https://github.com/danginsburg/opengles3-book/
+	branch = master
 [submodule "ogl/superbible7"]
 	path = ogl/superbible7
 	url = https://github.com/openglsuperbible/sb7code
+	branch = master
 [submodule "ocl/opencl_in_action"]
 	path = ocl/opencl_in_action
 	url = https://github.com/jeremyong/opencl_in_action
+	branch = master
 [submodule "ocl/opencl-book-samples"]
 	path = ocl/opencl-book-samples
 	url = https://github.com/bgaster/opencl-book-samples
+	branch = master
 [submodule "cmake/cmake-cookbook"]
 	path = cmake/cmake-cookbook
 	url = https://github.com/dev-cafe/cmake-cookbook
+	branch = master
 [submodule "cmake/modern-cmake"]
 	path = cmake/modern-cmake
 	url = https://gitlab.com/CLIUtils/modern-cmake
+	branch = master
 [submodule "toolchains/dockcross"]
 	path = toolchains/dockcross
 	url = https://github.com/dockcross/dockcross
+	branch = master
 [submodule "cmake/hunter"]
 	path = cmake/hunter
 	url = https://github.com/ruslo/hunter
+	branch = master
+[submodule "libs/simd/vectorclass"]
+	path = libs/simd/vectorclass
+	url = https://github.com/vectorclass/version1
+	branch = master
+[submodule "libs/simd/vectorclass2"]
+	path = libs/simd/vectorclass2
+	url = https://github.com/vectorclass/version2
+	branch = master
