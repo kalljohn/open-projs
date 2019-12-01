@@ -67,3 +67,12 @@
 [submodule "cmake/cmake-cookbook"]
 	path = cmake/cmake-cookbook
 	url = https://github.com/dev-cafe/cmake-cookbook
+[submodule "cmake/modern-cmake"]
+	path = cmake/modern-cmake
+	url = https://gitlab.com/CLIUtils/modern-cmake
+[submodule "toolchains/dockcross"]
+	path = toolchains/dockcross
+	url = https://github.com/dockcross/dockcross
+[submodule "cmake/hunter"]
+	path = cmake/hunter
+	url = https://github.com/ruslo/hunter
