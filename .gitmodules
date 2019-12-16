@@ -162,3 +162,11 @@
 	path = libs/log4cplus
 	url = https://github.com/log4cplus/log4cplus
 	branch = master
+[submodule "media/intel-media-sdk-gstreamer-plugins"]
+	path = media/intel-media-sdk-gstreamer-plugins
+	url = https://github.com/Intel-Media-SDK/gstreamer-plugins
+	branch = master
+[submodule "media/intel-media-sdk"]
+	path = media/intel-media-sdk
+	url = https://github.com/Intel-Media-SDK/MediaSDK
+	branch = master
