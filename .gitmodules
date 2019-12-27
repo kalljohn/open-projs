@@ -170,3 +170,7 @@
 	path = media/intel-media-sdk
 	url = https://github.com/Intel-Media-SDK/MediaSDK
 	branch = master
+[submodule "media/gst-template"]
+	path = media/gst-template
+	url = git://anongit.freedesktop.org/gstreamer/gst-template.git
+	branch = master
