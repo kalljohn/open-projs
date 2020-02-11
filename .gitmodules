@@ -174,3 +174,7 @@
 	path = media/gst-template
 	url = git://anongit.freedesktop.org/gstreamer/gst-template.git
 	branch = master
+[submodule "libs/simd/nsimd"]
+	path = libs/simd/nsimd
+	url = https://github.com/agenium-scale/nsimd
+	branch = master
