@@ -174,3 +174,7 @@
 	path = media/gst-template
 	url = git://anongit.freedesktop.org/gstreamer/gst-template.git
 	branch = master
+[submodule "media/gstreamermm"]
+	path = media/gstreamermm
+	url = https://github.com/GNOME/gstreamermm
+	branch = master
