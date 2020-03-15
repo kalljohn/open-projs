@@ -182,3 +182,7 @@
 	path = media/gstreamermm
 	url = https://github.com/GNOME/gstreamermm
 	branch = master
+[submodule "libs/asio_samples"]
+	path = libs/asio_samples
+	url = https://github.com/mabrarov/asio_samples
+	branch = master
