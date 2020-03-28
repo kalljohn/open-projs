@@ -186,3 +186,7 @@
 	path = libs/asio_samples
 	url = https://github.com/mabrarov/asio_samples
 	branch = master
+[submodule "sycl/computecpp-samples"]
+	path = sycl/computecpp-samples
+	url = https://github.com/codeplaysoftware/computecpp-sdk
+	branch = master
