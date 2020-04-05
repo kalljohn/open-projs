@@ -3,59 +3,59 @@
 	url = https://github.com/intel/compute-samples
 	branch = master
 [submodule "ffmpeg/simplest_media_player"]
-	path = ffmpeg/simplest_media_player
+	path = media/ffmpeg/simplest_media_player
 	url = https://github.com/leixiaohua1020/simplest_media_play
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_audio_player"]
-	path = ffmpeg/simplest_ffmpeg_audio_player
+	path = media/ffmpeg/simplest_ffmpeg_audio_player
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_audio_player
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_video_filter"]
-	path = ffmpeg/simplest_ffmpeg_video_filter
+	path = media/ffmpeg/simplest_ffmpeg_video_filter
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_video_filter
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_swscale"]
-	path = ffmpeg/simplest_ffmpeg_swscale
+	path = media/ffmpeg/simplest_ffmpeg_swscale
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_swscale
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_format"]
-	path = ffmpeg/simplest_ffmpeg_format
+	path = media/ffmpeg/simplest_ffmpeg_format
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_format
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_device"]
-	path = ffmpeg/simplest_ffmpeg_device
+	path = media/ffmpeg/simplest_ffmpeg_device
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_device
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_mem_handler"]
-	path = ffmpeg/simplest_ffmpeg_mem_handler
+	path = media/ffmpeg/simplest_ffmpeg_mem_handler
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_mem_handler
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_streamer"]
-	path = ffmpeg/simplest_ffmpeg_streamer
+	path = media/ffmpeg/simplest_ffmpeg_streamer
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_streamer
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_video_encoder"]
-	path = ffmpeg/simplest_ffmpeg_video_encoder
+	path = media/ffmpeg/simplest_ffmpeg_video_encoder
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_video_encoder
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_picture_encoder"]
-	path = ffmpeg/simplest_ffmpeg_picture_encoder
+	path = media/ffmpeg/simplest_ffmpeg_picture_encoder
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_picture_encoder
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_audio_encoder"]
-	path = ffmpeg/simplest_ffmpeg_audio_encoder
+	path = media/ffmpeg/simplest_ffmpeg_audio_encoder
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_audio_encoder
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_player"]
-	path = ffmpeg/simplest_ffmpeg_player
+	path = media/ffmpeg/simplest_ffmpeg_player
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_player
 	branch = master
 [submodule "ffmpeg/simplest_ffmpeg_avutil"]
-	path = ffmpeg/simplest_ffmpeg_avutil
+	path = media/ffmpeg/simplest_ffmpeg_avutil
 	url = https://github.com/leixiaohua1020/simplest_ffmpeg_avutil
 	branch = master
 [submodule "ffmpeg/simplest_encoder"]
-	path = ffmpeg/simplest_encoder
+	path = media/ffmpeg/simplest_encoder
 	url = https://github.com/leixiaohua1020/simplest_encoder
 	branch = master
 [submodule "ocl/amd_app_samples"]
