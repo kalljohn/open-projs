@@ -183,7 +183,7 @@
 	url = https://github.com/GNOME/gstreamermm
 	branch = master
 [submodule "libs/asio_samples"]
-	path = libs/asio_samples
+	path = net/asio_samples
 	url = https://github.com/mabrarov/asio_samples
 	branch = master
 [submodule "sycl/computecpp-samples"]
@@ -191,6 +191,6 @@
 	url = https://github.com/codeplaysoftware/computecpp-sdk
 	branch = master
 [submodule "sycl/triSYCL"]
-	path = sycl/triSYCL
+	path = libs/triSYCL
 	url = https://github.com/triSYCL/triSYCL
 	branch = master
