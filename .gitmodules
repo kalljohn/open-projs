@@ -190,3 +190,7 @@
 	path = sycl/computecpp-samples
 	url = https://github.com/codeplaysoftware/computecpp-sdk
 	branch = master
+[submodule "sycl/triSYCL"]
+	path = sycl/triSYCL
+	url = https://github.com/triSYCL/triSYCL
+	branch = master
