@@ -194,3 +194,7 @@
 	path = libs/triSYCL
 	url = https://github.com/triSYCL/triSYCL
 	branch = master
+[submodule "libs/sdbus-cpp"]
+	path = libs/sdbus-cpp
+	url = https://github.com/Kistler-Group/sdbus-cpp
+	branch = master
