@@ -198,3 +198,7 @@
 	path = libs/sdbus-cpp
 	url = https://github.com/Kistler-Group/sdbus-cpp
 	branch = master
+[submodule "libs/taskflow"]
+	path = libs/taskflow
+	url = https://github.com/taskflow/taskflow
+	branch = master
