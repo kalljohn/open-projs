@@ -202,3 +202,11 @@
 	path = libs/taskflow
 	url = https://github.com/taskflow/taskflow
 	branch = master
+[submodule "libs/stb"]
+	path = libs/stb
+	url = https://github.com/nothings/stb
+	branch = master
+[submodule "libs/rapidjson"]
+	path = libs/rapidjson
+	url = https://github.com/Tencent/rapidjson/
+	branch = master
