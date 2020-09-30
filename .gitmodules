@@ -210,3 +210,11 @@
 	path = libs/rapidjson
 	url = https://github.com/Tencent/rapidjson/
 	branch = master
+[submodule "libs/flatbuffers"]
+	path = libs/flatbuffers
+	url = https://github.com/google/flatbuffers
+	branch = master
+[submodule "libs/protobuf"]
+	path = libs/protobuf
+	url = https://github.com/protocolbuffers/protobuf
+	branch = master
