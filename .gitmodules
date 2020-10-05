@@ -217,4 +217,7 @@
 [submodule "libs/protobuf"]
 	path = libs/protobuf
 	url = https://github.com/protocolbuffers/protobuf
+[submodule "ocl/OpenCL-CLHPP"]
+	path = ocl/OpenCL-CLHPP
+	url = https://github.com/KhronosGroup/OpenCL-CLHPP
 	branch = master
