@@ -221,3 +221,7 @@
 	path = ocl/OpenCL-CLHPP
 	url = https://github.com/KhronosGroup/OpenCL-CLHPP
 	branch = master
+[submodule "media/amf"]
+	path = media/amf
+	url = https://github.com/GPUOpen-LibrariesAndSDKs/AMF
+	branch = master
