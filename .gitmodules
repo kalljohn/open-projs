@@ -224,4 +224,7 @@
 [submodule "media/amf"]
 	path = media/amf
 	url = https://github.com/GPUOpen-LibrariesAndSDKs/AMF
+[submodule "libs/hipSYCL"]
+	path = libs/hipSYCL
+	url = https://github.com/illuhad/hipSYCL
 	branch = master
