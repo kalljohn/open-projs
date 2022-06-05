@@ -217,10 +217,11 @@
 [submodule "libs/protobuf"]
 	path = libs/protobuf
 	url = https://github.com/protocolbuffers/protobuf
+    branch = main
 [submodule "ocl/OpenCL-CLHPP"]
 	path = ocl/OpenCL-CLHPP
 	url = https://github.com/KhronosGroup/OpenCL-CLHPP
-	branch = master
+	branch = main
 [submodule "media/amf"]
 	path = media/amf
 	url = https://github.com/GPUOpen-LibrariesAndSDKs/AMF
@@ -235,4 +236,4 @@
 [submodule "libs/DirectXMath"]
 	path = libs/DirectXMath
 	url = https://github.com/microsoft/DirectXMath
-	branch = master
+	branch = main
